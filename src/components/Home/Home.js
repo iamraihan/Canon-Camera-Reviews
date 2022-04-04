@@ -19,7 +19,7 @@ const Home = () => {
     return (
         // banner section 
         <div>
-            <div className='grid grid-cols-1 md:grid-cols-3 max-w-screen-xl mx-auto mt-12'>
+            <div className='grid grid-cols-1 md:grid-cols-3 max-w-screen-xl mx-auto mt-12 gap-5'>
                 <div className='md:col-span-1'>
                     <img className='rounded' src={Camera} alt="" />
                 </div>
@@ -30,7 +30,8 @@ const Home = () => {
                 </div>
 
             </div>
-            <div className='grid grid-cols-1 md:grid-cols-3 max-w-screen-xl mx-auto'>
+            <h1 className='m-32 text-5xl font-bold'>Customer Reviews(3)</h1>
+            <div className='grid grid-cols-1 md:grid-cols-3 max-w-screen-xl mx-auto gap-5'>
                 {
                     newReview.map(item => <Review key={item.id} item={item}></Review>)
                 }
