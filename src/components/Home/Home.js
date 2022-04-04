@@ -30,7 +30,7 @@ const Home = () => {
                 </div>
 
             </div>
-            <h1 className='m-32 text-5xl font-bold'>Customer Reviews(3)</h1>
+            <h1 className='my-32 text-5xl font-bold '>Customer Reviews(3)</h1>
             <div className='grid grid-cols-1 md:grid-cols-3 max-w-screen-xl mx-auto gap-5'>
                 {
                     newReview.map(item => <Review key={item.id} item={item}></Review>)
