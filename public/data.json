@@ -1,0 +1,44 @@
+[
+    {
+        "id": "624a7c33dbd5dc76a85d450f",
+        "rating": 5,
+        "review": "DSLR cameras have long been the preferred tool of amateur and professional photographers, with a wide variety of choices that cater to almost every skill set and budget. While they've ceded some of their market dominance to mirrorless cameras in recent years, there's still no shortage of traditional DSLRs that deliver a versatile overall performance.",
+        "picture": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+        "name": "Gibson Blackwell"
+    },
+    {
+        "id": "624a7c33fbe6eec61085e567",
+        "rating": 5,
+        "review": "The best DSLR that we've tested with a full-frame sensor is the Nikon D780. This enthusiast-level DSLR feels very well-built, with a large, textured handgrip and well-spaced physical controls. Its screen can tilt upward if you like to shoot from the hip, and there's also a small display on the top of its body that lets you easily check settings and remaining battery life.",
+        "picture": "https://images.unsplash.com/photo-1524638431109-93d95c968f03?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+        "name": "Lane Kane"
+    },
+    {
+        "id": "624a7c33b0b274d59ee0f765",
+        "rating": 4,
+        "review": "The camera delivers amazing overall image quality. It has incredible RAW noise handling capability at higher ISO levels, so you can take photos at high ISOs in low light without introducing too much noise. Its autofocus system is also fantastic, with 51 advertised detection points and a superb success rate when tracking moving objects, so your subject should stay in focus even when moving, whether you're taking photos or shooting video",
+        "picture": "https://images.unsplash.com/photo-1525265750372-a6dd70a57a1f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+        "name": "Velma Parrish"
+    },
+    {
+        "id": "624a7c3388835033edd4358d",
+        "rating": 5,
+        "review": "The best DSLR camera that we've tested with a crop sensor is the Canon EOS 90D. This camera's 32.5 MP APS-C sensor helps deliver very good JPEG image quality out-of-the-box, with an expansive dynamic range at low ISO and impressive noise handling capability at higher ISO levels. Its autofocus system is also very effective when tracking moving objects.",
+        "picture": "https://images.unsplash.com/photo-1533636721434-0e2d61030955?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+        "name": "Lang Reilly"
+    },
+    {
+        "id": "624a7c3396080d6c653699ec",
+        "rating": 5,
+        "review": " this camera has a very intuitive menu system and control layout, making it easy to use for experienced and novice users alike. Its top plate display allows you to quickly check your chosen exposure settings and remaining battery life. Its body is advertised as being weather-sealed, enabling you to shoot in fairly tricky weather conditions. The touchscreen interface is also fully articulated, which is helpful when trying to compose shots from unconventional angles.",
+        "picture": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2080&q=80",
+        "name": "Kerry Hutchinson"
+    },
+    {
+        "id": "624a7c33c62692277ba791a4",
+        "rating": 5,
+        "review": "The best DSLR camera that we've tested for beginners is the Canon EOS Rebel T8i. It's one of the most well-rounded entry-level DSLRs we've tested. It has a fully-articulated touchscreen, a 24-megapixel APS-C sensor, and 4k video capability, a rarity for many beginner DSLRs. The camera is also very comfortable to shoot with and has a highly intuitive menu system, with explanations of settings for novice users.",
+        "picture": "https://images.unsplash.com/photo-1514626585111-9aa86183ac98?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+        "name": "Gonzalez Browning"
+    }
+]
