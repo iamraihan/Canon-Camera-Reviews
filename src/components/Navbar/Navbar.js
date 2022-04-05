@@ -10,11 +10,11 @@ const Navbar = () => {
                 {open ? <XIcon className='h-8'></XIcon> : <MenuIcon></MenuIcon>}
             </div>
             <nav className={`md:flex  justify-center  md:h-14 items-center  uppercase absolute md:static bg-white z-0 w-full duration-500 ease-in ${open ? 'top-6 ' : 'top-[-120px]'}`}>
-                <CustomLink className='border-b-2 p-3 mr-8' to='/'>Home</CustomLink>
-                <CustomLink className='border-b-2 p-3 mr-8' to='/reviews'>Reviews</CustomLink>
-                <CustomLink className='border-b-2 p-3 mr-8' to='/dashboard'>Dashboard</CustomLink>
-                <CustomLink className='border-b-2 p-3 mr-8' to='/blogs'>Blogs</CustomLink>
-                <CustomLink className='border-b-2 p-3 mr-8' to='/about'>About</CustomLink>
+                <CustomLink className='border-b-2 md:p-3 mr-8' to='/'>Home</CustomLink>
+                <CustomLink className='border-b-2 md:p-3 mr-8' to='/reviews'>Reviews</CustomLink>
+                <CustomLink className='border-b-2 md:p-3 mr-8' to='/dashboard'>Dashboard</CustomLink>
+                <CustomLink className='border-b-2 md:p-3 mr-8' to='/blogs'>Blogs</CustomLink>
+                <CustomLink className='border-b-2 md:p-3 mr-8' to='/about'>About</CustomLink>
 
             </nav>
         </div>
