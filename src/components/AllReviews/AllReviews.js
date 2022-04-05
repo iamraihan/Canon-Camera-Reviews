@@ -6,7 +6,9 @@ const AllReviews = ({ item }) => {
 
     return (
         <div>
-            <div className=' mx-auto mt-24 border shadow w-72 p-5'>
+            <div className=' mx-auto mt-24 border shadow w-72 p-5' data-aos="flip-left"
+                data-aos-easing="ease-out-cubic"
+                data-aos-duration="1500">
 
                 <img className='w-24 h-24 object-cover rounded-full mx-auto' src={picture} alt="" />
                 <h2 className='text-2xl m-5'>{name}</h2>

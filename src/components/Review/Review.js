@@ -5,7 +5,9 @@ const Review = ({ item }) => {
 
     // console.log(item);
     return (
-        <div className=' mx-auto  border shadow w-72 p-5'>
+        <div className=' mx-auto  border shadow w-72 p-5' data-aos="fade-up"
+            data-aos-easing="linear"
+            data-aos-duration="1500">
 
             <img className='w-24 h-24 object-cover rounded-full mx-auto' src={picture} alt="" />
             <h2 className='text-2xl m-5'>{name}</h2>
