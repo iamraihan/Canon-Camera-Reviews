@@ -36,9 +36,7 @@ const Home = () => {
                 }
 
             </div>
-            <button onClick={() => navigate('/reviews')} className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-20' data-aos="zoom-in"
-                data-aos-easing="ease-out-cubic"
-                data-aos-duration="1000">See All Reviews</button>
+            <button onClick={() => navigate('/reviews')} className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-20'>See All Reviews</button>
 
         </div>
     );
