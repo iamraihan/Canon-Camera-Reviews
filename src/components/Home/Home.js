@@ -5,13 +5,8 @@ import useReviews from '../../hooks/useReviews';
 import Review from '../Review/Review';
 
 const Home = () => {
-    // const [reviews, setReview] = useState([])
     const [reviews, setReview] = useReviews()
-    // useEffect(() => {
-    //     fetch('data.json')
-    //         .then(res => res.json())
-    //         .then(data => setReview(data))
-    // }, [])
+
 
     const navigate = useNavigate()
 
